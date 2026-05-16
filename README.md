@@ -1,2 +1,2 @@
-# GitHugPage
+# GitHubPage
 Minha pagina no GitHub
